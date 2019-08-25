@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Cloud Browser
+description: Cloud Storage Browser and Media Player
+logo: /image/logo.png
+exclude:
+- README.md
